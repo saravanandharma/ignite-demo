@@ -1,0 +1,11 @@
+---
+applications:
+- name: PaaSAccentureDemo
+  memory: 512M
+  instances: 3
+  path: build/libs/cloudfoundry-activity-base.war
+  buildpack: java_buildpack
+  host: PaaSAccentureDemo
+  services:
+  - niel_mysql
+  
