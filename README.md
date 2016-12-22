@@ -8,7 +8,7 @@ This sample application created for ignite demo. Enjoy the ride....
 
 
 Spring Music
-============
+------------
 
 This is a sample application for using database services on [Cloud Foundry](http://cloudfoundry.com)
 with the [Spring Framework](http://www.springframework.org).
