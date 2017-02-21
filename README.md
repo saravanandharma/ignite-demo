@@ -1,6 +1,6 @@
-ignite Demo
+Tech Tuesday Demo
 ===========
-This sample application created for ignite demo. Enjoy the ride....
+This sample application created for Tech Tuesday demo. Enjoy the learning ride!!!
 
 ~DS.
 
